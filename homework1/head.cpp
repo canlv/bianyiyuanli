@@ -1,5 +1,10 @@
+#include "head.h"
 
-int f(int a)
+void analyze()
 {
-    return a + 10;
+    for(int num = 0;num < wordlength; num++)
+    {
+        int i = 0;
+        
+    }
 }
