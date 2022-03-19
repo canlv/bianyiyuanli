@@ -1,0 +1,42 @@
+输入    state   type
+iT标识符    1       1
+cT字符      2       2
+sT字符串    3       3
+CT常数      4       4
+KT关键字    5       -
+PT界符      6       -
+auto        7       5
+break       8       6
+case        9       7
+char        10       8
+const       11       9
+continue    12      10
+default     13      11
+do          14      12
+double      15      13
+else        16      14
+enum        17      15
+extern      18      16
+float       19      17
+for         20      18
+goto        21      19
+if          22      20
+int         23      21
+long        24      22
+register    25      23
+return      26      24
+short       27      25
+signed      28      26
+sizeof      29      27
+static      30      28
+struct      31      29
+switch      32      30
+typedef     33      31
+union       34      32
+unsigned    35      33
+void        36      34
+volatile    37      35
+while       38      36
+
++
+
